@@ -1,0 +1,6 @@
+fan_ramp_up_demo.wav
+fan_ramp_up_smoothed.wav
+fan_ramp_up_smoothed_mid.wav
+test.py
+*.xml
+*.iml
